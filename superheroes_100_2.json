@@ -1,0 +1,2334 @@
+[
+		{
+			"heroName": "Frozen Monk",
+			"civilianFirstName": "Hudson",
+			"civilianLastName": "Rodriguez",
+			"powerSet": [
+				"Time Manipulation",
+				"Poison Generation"
+			],
+			"addresses": [
+				{
+					"street": "Glen 2060",
+					"city": "New York",
+					"country": "USA",
+					"postalCode": "07357"
+				},
+				{
+					"street": "Fir 501",
+					"city": "Winston-Salem",
+					"country": "USA",
+					"postalCode": "85383"
+				},
+				{
+					"street": "Birch 6501",
+					"city": "Madison",
+					"country": "USA",
+					"postalCode": "34216"
+				}
+			]
+		},
+		{
+			"heroName": "Relentless Wizard",
+			"civilianFirstName": "Claire",
+			"civilianLastName": "Taylor",
+			"powerSet": [
+				"Regeneration",
+				"Flight",
+				"Air Manipulation",
+				"Animal Communication",
+				"Luck Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Harborview 3151",
+					"city": "Raleigh",
+					"country": "USA",
+					"postalCode": "99169"
+				},
+				{
+					"street": "River 6536",
+					"city": "El Paso",
+					"country": "USA",
+					"postalCode": "82500"
+				}
+			]
+		},
+		{
+			"heroName": "Rapid Colossus",
+			"civilianFirstName": "Hazel",
+			"civilianLastName": "Martin",
+			"powerSet": [
+				"Spirit Communication",
+				"Portal Creation",
+				"Radiation Control",
+				"Elemental Control"
+			],
+			"addresses": [
+				{
+					"street": "Willow 9184",
+					"city": "Honolulu",
+					"country": "USA",
+					"postalCode": "02992"
+				},
+				{
+					"street": "Mill 3905",
+					"city": "Anchorage",
+					"country": "USA",
+					"postalCode": "99122"
+				}
+			]
+		},
+		{
+			"heroName": "Icy Ninja",
+			"civilianFirstName": "James",
+			"civilianLastName": "Allen",
+			"powerSet": [
+				"Telepathy",
+				"Technopathy",
+				"Shadow Control"
+			],
+			"addresses": [
+				{
+					"street": "Oak 8277",
+					"city": "Chicago",
+					"country": "USA",
+					"postalCode": "34687"
+				},
+				{
+					"street": "Terrace 2996",
+					"city": "Tulsa",
+					"country": "USA",
+					"postalCode": "11847"
+				},
+				{
+					"street": "Birch 1637",
+					"city": "Oakland",
+					"country": "USA",
+					"postalCode": "03066"
+				}
+			]
+		},
+		{
+			"heroName": "Lunar Oracle",
+			"civilianFirstName": "Wyatt",
+			"civilianLastName": "Kim",
+			"powerSet": [
+				"Precognition",
+				"Force Fields",
+				"Power Mimicry",
+				"Earth Manipulation",
+				"Technopathy"
+			],
+			"addresses": [
+				{
+					"street": "River 5417",
+					"city": "Denver",
+					"country": "USA",
+					"postalCode": "69121"
+				},
+				{
+					"street": "Sycamore 5700",
+					"city": "Irvine",
+					"country": "USA",
+					"postalCode": "48814"
+				}
+			]
+		},
+		{
+			"heroName": "Luminous Dolphin",
+			"civilianFirstName": "Sophia",
+			"civilianLastName": "Mitchell",
+			"powerSet": [
+				"Mind Control",
+				"Density Control",
+				"Magnetism",
+				"Plant Control",
+				"Time Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Garden 5965",
+					"city": "Chandler",
+					"country": "USA",
+					"postalCode": "72858"
+				},
+				{
+					"street": "Market 7149",
+					"city": "Houston",
+					"country": "USA",
+					"postalCode": "88525"
+				}
+			]
+		},
+		{
+			"heroName": "Lunar Wave",
+			"civilianFirstName": "Daniel",
+			"civilianLastName": "Howard",
+			"powerSet": [
+				"Time Manipulation",
+				"Plant Control",
+				"Air Manipulation",
+				"Super Intelligence"
+			],
+			"addresses": [
+				{
+					"street": "Pebble 5229",
+					"city": "Virginia Beach",
+					"country": "USA",
+					"postalCode": "43893"
+				},
+				{
+					"street": "Forest 9384",
+					"city": "Buffalo",
+					"country": "USA",
+					"postalCode": "16706"
+				},
+				{
+					"street": "Hemlock 5344",
+					"city": "Buffalo",
+					"country": "USA",
+					"postalCode": "85909"
+				}
+			]
+		},
+		{
+			"heroName": "Neon Gladiator",
+			"civilianFirstName": "Mia",
+			"civilianLastName": "Gutierrez",
+			"powerSet": [
+				"Regeneration",
+				"Precognition",
+				"Portal Creation",
+				"Portal Creation"
+			],
+			"addresses": [
+				{
+					"street": "Ocean 3184",
+					"city": "Dallas",
+					"country": "USA",
+					"postalCode": "48109"
+				}
+			]
+		},
+		{
+			"heroName": "Vengeful Inferno",
+			"civilianFirstName": "Bella",
+			"civilianLastName": "Wright",
+			"powerSet": [
+				"Precognition",
+				"Super Speed",
+				"Elemental Control",
+				"Shadow Control"
+			],
+			"addresses": [
+				{
+					"street": "Sunrise 9811",
+					"city": "New York",
+					"country": "USA",
+					"postalCode": "23903"
+				},
+				{
+					"street": "Vista 2263",
+					"city": "El Paso",
+					"country": "USA",
+					"postalCode": "49722"
+				}
+			]
+		},
+		{
+			"heroName": "Orderly Warden",
+			"civilianFirstName": "Chloe",
+			"civilianLastName": "Garcia",
+			"powerSet": [
+				"Size Changing",
+				"Air Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Forest 6098",
+					"city": "Greensboro",
+					"country": "USA",
+					"postalCode": "79937"
+				},
+				{
+					"street": "Laurel 6218",
+					"city": "Laredo",
+					"country": "USA",
+					"postalCode": "34469"
+				}
+			]
+		},
+		{
+			"heroName": "Colossal Viper",
+			"civilianFirstName": "Joseph",
+			"civilianLastName": "Martinez",
+			"powerSet": [
+				"Power Mimicry",
+				"Time Manipulation",
+				"Shadow Control"
+			],
+			"addresses": [
+				{
+					"street": "Brook 5031",
+					"city": "San Antonio",
+					"country": "USA",
+					"postalCode": "36550"
+				},
+				{
+					"street": "Holly 2544",
+					"city": "Laredo",
+					"country": "USA",
+					"postalCode": "26699"
+				}
+			]
+		},
+		{
+			"heroName": "Infinite Kraken",
+			"civilianFirstName": "Leah",
+			"civilianLastName": "Wood",
+			"powerSet": [
+				"Energy Blasts",
+				"Healing Touch",
+				"Earth Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Pine 3182",
+					"city": "Chandler",
+					"country": "USA",
+					"postalCode": "11648"
+				},
+				{
+					"street": "Bay 1819",
+					"city": "Portland",
+					"country": "USA",
+					"postalCode": "69290"
+				},
+				{
+					"street": "Terrace 7227",
+					"city": "Virginia Beach",
+					"country": "USA",
+					"postalCode": "91498"
+				}
+			]
+		},
+		{
+			"heroName": "Bold Phoenix",
+			"civilianFirstName": "Joseph",
+			"civilianLastName": "Diaz",
+			"powerSet": [
+				"Plant Control",
+				"Flight",
+				"Magnetism"
+			],
+			"addresses": [
+				{
+					"street": "Station 6717",
+					"city": "Miami",
+					"country": "USA",
+					"postalCode": "68687"
+				},
+				{
+					"street": "Cliff 6597",
+					"city": "San Francisco",
+					"country": "USA",
+					"postalCode": "93486"
+				}
+			]
+		},
+		{
+			"heroName": "Heroic Wave",
+			"civilianFirstName": "Jacob",
+			"civilianLastName": "Phillips",
+			"powerSet": [
+				"Invisibility",
+				"Telekinesis",
+				"Energy Absorption",
+				"Portal Creation"
+			],
+			"addresses": [
+				{
+					"street": "Prairie 1884",
+					"city": "Corpus Christi",
+					"country": "USA",
+					"postalCode": "31423"
+				}
+			]
+		},
+		{
+			"heroName": "Jagged Mage",
+			"civilianFirstName": "Lucy",
+			"civilianLastName": "Lewis",
+			"powerSet": [
+				"Illusion Casting",
+				"Illusion Casting"
+			],
+			"addresses": [
+				{
+					"street": "Ocean 8053",
+					"city": "Toledo",
+					"country": "USA",
+					"postalCode": "68004"
+				},
+				{
+					"street": "Way 6823",
+					"city": "Stockton",
+					"country": "USA",
+					"postalCode": "24967"
+				},
+				{
+					"street": "Sequoia 3791",
+					"city": "Newark",
+					"country": "USA",
+					"postalCode": "78317"
+				}
+			]
+		},
+		{
+			"heroName": "Vigilant Flash",
+			"civilianFirstName": "William",
+			"civilianLastName": "Gutierrez",
+			"powerSet": [
+				"Shape Shifting",
+				"Healing Touch",
+				"Time Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Alley 7530",
+					"city": "Denver",
+					"country": "USA",
+					"postalCode": "22362"
+				}
+			]
+		},
+		{
+			"heroName": "Orderly Tsunami",
+			"civilianFirstName": "John",
+			"civilianLastName": "Clark",
+			"powerSet": [
+				"Magnetism",
+				"Telepathy"
+			],
+			"addresses": [
+				{
+					"street": "Way 6807",
+					"city": "Santa Ana",
+					"country": "USA",
+					"postalCode": "49600"
+				}
+			]
+		},
+		{
+			"heroName": "Cunning Nebula",
+			"civilianFirstName": "Liam",
+			"civilianLastName": "Williams",
+			"powerSet": [
+				"Radiation Control",
+				"Probability Manipulation",
+				"Regeneration"
+			],
+			"addresses": [
+				{
+					"street": "Linden 3823",
+					"city": "Albuquerque",
+					"country": "USA",
+					"postalCode": "27674"
+				}
+			]
+		},
+		{
+			"heroName": "Relentless Surge",
+			"civilianFirstName": "Gabriel",
+			"civilianLastName": "Evans",
+			"powerSet": [
+				"Energy Blasts",
+				"Animal Communication",
+				"Poison Generation",
+				"Astral Projection",
+				"X-Ray Vision"
+			],
+			"addresses": [
+				{
+					"street": "Sequoia 4391",
+					"city": "Saint Paul",
+					"country": "USA",
+					"postalCode": "36177"
+				},
+				{
+					"street": "Sunset 6869",
+					"city": "Lincoln",
+					"country": "USA",
+					"postalCode": "63315"
+				},
+				{
+					"street": "Lowland 7767",
+					"city": "Lubbock",
+					"country": "USA",
+					"postalCode": "64051"
+				}
+			]
+		},
+		{
+			"heroName": "Jagged Raven",
+			"civilianFirstName": "Thomas",
+			"civilianLastName": "Mitchell",
+			"powerSet": [
+				"Elasticity",
+				"Super Strength",
+				"Super Speed",
+				"Energy Absorption",
+				"Ice Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Drive 3807",
+					"city": "Chicago",
+					"country": "USA",
+					"postalCode": "72775"
+				}
+			]
+		},
+		{
+			"heroName": "Blinding Defender",
+			"civilianFirstName": "Benjamin",
+			"civilianLastName": "Campbell",
+			"powerSet": [
+				"Dream Walking",
+				"Power Mimicry"
+			],
+			"addresses": [
+				{
+					"street": "Lowland 7385",
+					"city": "Washington",
+					"country": "USA",
+					"postalCode": "27847"
+				},
+				{
+					"street": "Market 4754",
+					"city": "Chicago",
+					"country": "USA",
+					"postalCode": "24159"
+				}
+			]
+		},
+		{
+			"heroName": "Furious Comet",
+			"civilianFirstName": "Gabriel",
+			"civilianLastName": "Morgan",
+			"powerSet": [
+				"Flight",
+				"Regeneration",
+				"Shadow Control",
+				"Super Strength"
+			],
+			"addresses": [
+				{
+					"street": "Boulevard 4",
+					"city": "Bakersfield",
+					"country": "USA",
+					"postalCode": "43259"
+				},
+				{
+					"street": "Magnolia 8733",
+					"city": "Greensboro",
+					"country": "USA",
+					"postalCode": "77775"
+				}
+			]
+		},
+		{
+			"heroName": "Spectral Sorcerer",
+			"civilianFirstName": "John",
+			"civilianLastName": "Jones",
+			"powerSet": [
+				"Precognition",
+				"Air Manipulation",
+				"Healing Touch",
+				"Gravity Control",
+				"Energy Absorption"
+			],
+			"addresses": [
+				{
+					"street": "Ash 4275",
+					"city": "Long Beach",
+					"country": "USA",
+					"postalCode": "02764"
+				}
+			]
+		},
+		{
+			"heroName": "Obsidian Champion",
+			"civilianFirstName": "Emma",
+			"civilianLastName": "Rodriguez",
+			"powerSet": [
+				"Telekinesis",
+				"Magnetism"
+			],
+			"addresses": [
+				{
+					"street": "Market 2743",
+					"city": "Louisville",
+					"country": "USA",
+					"postalCode": "73009"
+				},
+				{
+					"street": "Lake 3890",
+					"city": "Minneapolis",
+					"country": "USA",
+					"postalCode": "62534"
+				}
+			]
+		},
+		{
+			"heroName": "Sonic Paladin",
+			"civilianFirstName": "Liam",
+			"civilianLastName": "Reyes",
+			"powerSet": [
+				"X-Ray Vision",
+				"Healing Touch",
+				"Poison Generation",
+				"Sonic Scream"
+			],
+			"addresses": [
+				{
+					"street": "Cedar 6198",
+					"city": "Albuquerque",
+					"country": "USA",
+					"postalCode": "70631"
+				},
+				{
+					"street": "Court 1828",
+					"city": "Las Vegas",
+					"country": "USA",
+					"postalCode": "80181"
+				}
+			]
+		},
+		{
+			"heroName": "Blessed Voyager",
+			"civilianFirstName": "Jackson",
+			"civilianLastName": "Cruz",
+			"powerSet": [
+				"Intangibility",
+				"Power Mimicry",
+				"Water Manipulation",
+				"Technopathy",
+				"Magnetism"
+			],
+			"addresses": [
+				{
+					"street": "Ridge 1169",
+					"city": "Chicago",
+					"country": "USA",
+					"postalCode": "39277"
+				},
+				{
+					"street": "Redwood 1680",
+					"city": "Memphis",
+					"country": "USA",
+					"postalCode": "13048"
+				}
+			]
+		},
+		{
+			"heroName": "Brave Ranger",
+			"civilianFirstName": "Oliver",
+			"civilianLastName": "Turner",
+			"powerSet": [
+				"Lightning Control",
+				"Time Manipulation",
+				"Power Mimicry",
+				"Energy Absorption",
+				"Shadow Control"
+			],
+			"addresses": [
+				{
+					"street": "Sequoia 7336",
+					"city": "Winston-Salem",
+					"country": "USA",
+					"postalCode": "42348"
+				}
+			]
+		},
+		{
+			"heroName": "Invisible Atom",
+			"civilianFirstName": "James",
+			"civilianLastName": "Cruz",
+			"powerSet": [
+				"Healing Touch",
+				"Air Manipulation",
+				"Earth Manipulation",
+				"Probability Manipulation",
+				"Elasticity"
+			],
+			"addresses": [
+				{
+					"street": "Redwood 4448",
+					"city": "Minneapolis",
+					"country": "USA",
+					"postalCode": "89410"
+				}
+			]
+		},
+		{
+			"heroName": "Silent Monk",
+			"civilianFirstName": "Elijah",
+			"civilianLastName": "Richardson",
+			"powerSet": [
+				"Super Strength",
+				"Spirit Communication",
+				"Flight",
+				"Astral Projection"
+			],
+			"addresses": [
+				{
+					"street": "Rock 4915",
+					"city": "Lincoln",
+					"country": "USA",
+					"postalCode": "95214"
+				}
+			]
+		},
+		{
+			"heroName": "Colossal Seeker",
+			"civilianFirstName": "Violet",
+			"civilianLastName": "Collins",
+			"powerSet": [
+				"Super Strength",
+				"Intangibility",
+				"Portal Creation",
+				"Intangibility"
+			],
+			"addresses": [
+				{
+					"street": "Summit 3641",
+					"city": "Greensboro",
+					"country": "USA",
+					"postalCode": "65694"
+				}
+			]
+		},
+		{
+			"heroName": "Amazing Tiger",
+			"civilianFirstName": "David",
+			"civilianLastName": "Baker",
+			"powerSet": [
+				"Super Speed",
+				"Telepathy",
+				"Earth Manipulation",
+				"Technopathy"
+			],
+			"addresses": [
+				{
+					"street": "Cliff 2713",
+					"city": "Laredo",
+					"country": "USA",
+					"postalCode": "82955"
+				},
+				{
+					"street": "Ocean 7659",
+					"city": "Anaheim",
+					"country": "USA",
+					"postalCode": "13444"
+				}
+			]
+		},
+		{
+			"heroName": "Quantum Golem",
+			"civilianFirstName": "Scarlett",
+			"civilianLastName": "Jackson",
+			"powerSet": [
+				"Time Manipulation",
+				"Time Manipulation",
+				"Dream Walking",
+				"Portal Creation",
+				"Flight"
+			],
+			"addresses": [
+				{
+					"street": "Garden 4425",
+					"city": "Omaha",
+					"country": "USA",
+					"postalCode": "58981"
+				},
+				{
+					"street": "Path 3215",
+					"city": "Jacksonville",
+					"country": "USA",
+					"postalCode": "64418"
+				}
+			]
+		},
+		{
+			"heroName": "Arcane Golem",
+			"civilianFirstName": "Elijah",
+			"civilianLastName": "Morales",
+			"powerSet": [
+				"Elasticity",
+				"Shape Shifting"
+			],
+			"addresses": [
+				{
+					"street": "Fir 1459",
+					"city": "Raleigh",
+					"country": "USA",
+					"postalCode": "68292"
+				},
+				{
+					"street": "Pebble 4335",
+					"city": "Atlanta",
+					"country": "USA",
+					"postalCode": "10267"
+				},
+				{
+					"street": "Station 9662",
+					"city": "Tampa",
+					"country": "USA",
+					"postalCode": "89954"
+				}
+			]
+		},
+		{
+			"heroName": "Modern Prophet",
+			"civilianFirstName": "James",
+			"civilianLastName": "Peterson",
+			"powerSet": [
+				"Sonic Scream",
+				"Energy Blasts",
+				"Energy Absorption"
+			],
+			"addresses": [
+				{
+					"street": "Prairieview 2272",
+					"city": "Colorado Springs",
+					"country": "USA",
+					"postalCode": "61003"
+				},
+				{
+					"street": "Avenue 5620",
+					"city": "Portland",
+					"country": "USA",
+					"postalCode": "63419"
+				},
+				{
+					"street": "Magnolia 1171",
+					"city": "Cincinnati",
+					"country": "USA",
+					"postalCode": "10923"
+				}
+			]
+		},
+		{
+			"heroName": "Radiant Alchemist",
+			"civilianFirstName": "Noah",
+			"civilianLastName": "Brooks",
+			"powerSet": [
+				"Poison Generation",
+				"Mind Control",
+				"Super Hearing",
+				"Telepathy"
+			],
+			"addresses": [
+				{
+					"street": "Path 4261",
+					"city": "Boston",
+					"country": "USA",
+					"postalCode": "54064"
+				},
+				{
+					"street": "Alley 7976",
+					"city": "Baltimore",
+					"country": "USA",
+					"postalCode": "00137"
+				}
+			]
+		},
+		{
+			"heroName": "Emerald Lion",
+			"civilianFirstName": "Madison",
+			"civilianLastName": "Campbell",
+			"powerSet": [
+				"Intangibility",
+				"Mind Control",
+				"Dream Walking",
+				"Mind Control"
+			],
+			"addresses": [
+				{
+					"street": "Terrace 4296",
+					"city": "Baltimore",
+					"country": "USA",
+					"postalCode": "49342"
+				},
+				{
+					"street": "Shore 1043",
+					"city": "Jacksonville",
+					"country": "USA",
+					"postalCode": "87679"
+				},
+				{
+					"street": "Terrace 5476",
+					"city": "Stockton",
+					"country": "USA",
+					"postalCode": "00720"
+				}
+			]
+		},
+		{
+			"heroName": "Mighty Berserker",
+			"civilianFirstName": "Mason",
+			"civilianLastName": "Baker",
+			"powerSet": [
+				"Shadow Control",
+				"Energy Blasts",
+				"Fire Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Meadow 8230",
+					"city": "Saint Paul",
+					"country": "USA",
+					"postalCode": "53410"
+				}
+			]
+		},
+		{
+			"heroName": "Phantom Wraith",
+			"civilianFirstName": "Eleanor",
+			"civilianLastName": "Mendoza",
+			"powerSet": [
+				"Poison Generation",
+				"Time Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Lake 1345",
+					"city": "Chula Vista",
+					"country": "USA",
+					"postalCode": "47745"
+				}
+			]
+		},
+		{
+			"heroName": "Miniature Cyclone",
+			"civilianFirstName": "Nora",
+			"civilianLastName": "Allen",
+			"powerSet": [
+				"Water Manipulation",
+				"Healing Touch",
+				"Mind Control",
+				"Animal Communication",
+				"Plant Control"
+			],
+			"addresses": [
+				{
+					"street": "Beech 5748",
+					"city": "Los Angeles",
+					"country": "USA",
+					"postalCode": "49513"
+				}
+			]
+		},
+		{
+			"heroName": "Vibrant Comet",
+			"civilianFirstName": "Lucy",
+			"civilianLastName": "Ramirez",
+			"powerSet": [
+				"Luck Manipulation",
+				"Luck Manipulation",
+				"Density Control"
+			],
+			"addresses": [
+				{
+					"street": "Spruce 9074",
+					"city": "Reno",
+					"country": "USA",
+					"postalCode": "46988"
+				},
+				{
+					"street": "Hickory 734",
+					"city": "Austin",
+					"country": "USA",
+					"postalCode": "49037"
+				},
+				{
+					"street": "Brook 855",
+					"city": "Tulsa",
+					"country": "USA",
+					"postalCode": "28541"
+				}
+			]
+		},
+		{
+			"heroName": "Electric Kraken",
+			"civilianFirstName": "John",
+			"civilianLastName": "Richardson",
+			"powerSet": [
+				"Dream Walking",
+				"Energy Blasts",
+				"Telekinesis",
+				"Mind Control"
+			],
+			"addresses": [
+				{
+					"street": "Redwood 5357",
+					"city": "Philadelphia",
+					"country": "USA",
+					"postalCode": "55732"
+				}
+			]
+		},
+		{
+			"heroName": "Harmonic Sorcerer",
+			"civilianFirstName": "John",
+			"civilianLastName": "Phillips",
+			"powerSet": [
+				"Shape Shifting",
+				"X-Ray Vision",
+				"Mind Control",
+				"Earth Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Linden 783",
+					"city": "Omaha",
+					"country": "USA",
+					"postalCode": "36101"
+				},
+				{
+					"street": "Sunset 4529",
+					"city": "Santa Ana",
+					"country": "USA",
+					"postalCode": "08531"
+				}
+			]
+		},
+		{
+			"heroName": "Burning Ghost",
+			"civilianFirstName": "Jacob",
+			"civilianLastName": "Torres",
+			"powerSet": [
+				"Elasticity",
+				"Elasticity"
+			],
+			"addresses": [
+				{
+					"street": "Ridge 1975",
+					"city": "Boston",
+					"country": "USA",
+					"postalCode": "93925"
+				},
+				{
+					"street": "Valley 297",
+					"city": "Baltimore",
+					"country": "USA",
+					"postalCode": "53068"
+				}
+			]
+		},
+		{
+			"heroName": "Titanic Wraith",
+			"civilianFirstName": "Grayson",
+			"civilianLastName": "Stewart",
+			"powerSet": [
+				"Magnetism",
+				"Mind Control"
+			],
+			"addresses": [
+				{
+					"street": "Holly 1667",
+					"city": "Glendale",
+					"country": "USA",
+					"postalCode": "45919"
+				},
+				{
+					"street": "Boulder 6737",
+					"city": "Lexington",
+					"country": "USA",
+					"postalCode": "80945"
+				}
+			]
+		},
+		{
+			"heroName": "Roaring Prophet",
+			"civilianFirstName": "Savannah",
+			"civilianLastName": "Flores",
+			"powerSet": [
+				"Water Manipulation",
+				"Shape Shifting",
+				"Radiation Control",
+				"Telekinesis"
+			],
+			"addresses": [
+				{
+					"street": "Spruce 5876",
+					"city": "Cincinnati",
+					"country": "USA",
+					"postalCode": "60834"
+				}
+			]
+		},
+		{
+			"heroName": "Temporal Crow",
+			"civilianFirstName": "Grace",
+			"civilianLastName": "Johnson",
+			"powerSet": [
+				"Technopathy",
+				"Super Strength"
+			],
+			"addresses": [
+				{
+					"street": "Terrace 7776",
+					"city": "Stockton",
+					"country": "USA",
+					"postalCode": "13734"
+				},
+				{
+					"street": "Magnolia 4101",
+					"city": "Greensboro",
+					"country": "USA",
+					"postalCode": "25623"
+				}
+			]
+		},
+		{
+			"heroName": "Azure Crusader",
+			"civilianFirstName": "Elias",
+			"civilianLastName": "Flores",
+			"powerSet": [
+				"Gravity Control",
+				"Animal Communication",
+				"Earth Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Locust 2496",
+					"city": "Milwaukee",
+					"country": "USA",
+					"postalCode": "38473"
+				},
+				{
+					"street": "Avenue 4036",
+					"city": "San Jose",
+					"country": "USA",
+					"postalCode": "54833"
+				}
+			]
+		},
+		{
+			"heroName": "Daring Defender",
+			"civilianFirstName": "Emily",
+			"civilianLastName": "Allen",
+			"powerSet": [
+				"Flight",
+				"Force Fields"
+			],
+			"addresses": [
+				{
+					"street": "Lake 1986",
+					"city": "Cincinnati",
+					"country": "USA",
+					"postalCode": "76029"
+				},
+				{
+					"street": "Valley 7647",
+					"city": "Sacramento",
+					"country": "USA",
+					"postalCode": "63978"
+				}
+			]
+		},
+		{
+			"heroName": "Invincible Herald",
+			"civilianFirstName": "Luna",
+			"civilianLastName": "Bailey",
+			"powerSet": [
+				"Technopathy",
+				"Telepathy",
+				"Flight",
+				"Air Manipulation",
+				"Astral Projection"
+			],
+			"addresses": [
+				{
+					"street": "Garden 2008",
+					"city": "Raleigh",
+					"country": "USA",
+					"postalCode": "54788"
+				}
+			]
+		},
+		{
+			"heroName": "Majestic Hawk",
+			"civilianFirstName": "Benjamin",
+			"civilianLastName": "Campbell",
+			"powerSet": [
+				"Elasticity",
+				"Density Control",
+				"Power Mimicry",
+				"Lightning Control",
+				"Astral Projection"
+			],
+			"addresses": [
+				{
+					"street": "Glen 3773",
+					"city": "Cincinnati",
+					"country": "USA",
+					"postalCode": "43001"
+				}
+			]
+		},
+		{
+			"heroName": "Enchanted Titan",
+			"civilianFirstName": "Jacob",
+			"civilianLastName": "Jones",
+			"powerSet": [
+				"Illusion Casting",
+				"Shadow Control",
+				"Power Mimicry",
+				"X-Ray Vision",
+				"Telepathy"
+			],
+			"addresses": [
+				{
+					"street": "Sunset 2832",
+					"city": "Orlando",
+					"country": "USA",
+					"postalCode": "82581"
+				}
+			]
+		},
+		{
+			"heroName": "Neon Oracle",
+			"civilianFirstName": "Layla",
+			"civilianLastName": "Hernandez",
+			"powerSet": [
+				"X-Ray Vision",
+				"Air Manipulation",
+				"Ice Manipulation",
+				"Luck Manipulation",
+				"Energy Blasts"
+			],
+			"addresses": [
+				{
+					"street": "Highland 1833",
+					"city": "Oakland",
+					"country": "USA",
+					"postalCode": "94584"
+				},
+				{
+					"street": "Cypress 1256",
+					"city": "Anaheim",
+					"country": "USA",
+					"postalCode": "00899"
+				}
+			]
+		},
+		{
+			"heroName": "Relentless Tempest",
+			"civilianFirstName": "Aurora",
+			"civilianLastName": "Gonzalez",
+			"powerSet": [
+				"Power Mimicry",
+				"Portal Creation",
+				"X-Ray Vision",
+				"Sonic Scream",
+				"Elasticity"
+			],
+			"addresses": [
+				{
+					"street": "Bay 4501",
+					"city": "New Orleans",
+					"country": "USA",
+					"postalCode": "85980"
+				},
+				{
+					"street": "Redwood 9903",
+					"city": "Santa Ana",
+					"country": "USA",
+					"postalCode": "54383"
+				},
+				{
+					"street": "Creek 5603",
+					"city": "Lincoln",
+					"country": "USA",
+					"postalCode": "40187"
+				}
+			]
+		},
+		{
+			"heroName": "Neon Witch",
+			"civilianFirstName": "Dylan",
+			"civilianLastName": "Harris",
+			"powerSet": [
+				"Emotion Manipulation",
+				"Illusion Casting",
+				"Gravity Control",
+				"Time Manipulation",
+				"Super Intelligence"
+			],
+			"addresses": [
+				{
+					"street": "Grove 3058",
+					"city": "Columbus",
+					"country": "USA",
+					"postalCode": "24808"
+				},
+				{
+					"street": "Beech 7400",
+					"city": "Chula Vista",
+					"country": "USA",
+					"postalCode": "15924"
+				},
+				{
+					"street": "Sand 3312",
+					"city": "Boston",
+					"country": "USA",
+					"postalCode": "17251"
+				}
+			]
+		},
+		{
+			"heroName": "Luminous Giant",
+			"civilianFirstName": "Elias",
+			"civilianLastName": "Nelson",
+			"powerSet": [
+				"Dream Walking",
+				"Gravity Control",
+				"Super Hearing",
+				"Night Vision"
+			],
+			"addresses": [
+				{
+					"street": "Dogwood 4852",
+					"city": "Mesa",
+					"country": "USA",
+					"postalCode": "82962"
+				}
+			]
+		},
+		{
+			"heroName": "Steadfast Striker",
+			"civilianFirstName": "Ellie",
+			"civilianLastName": "Williams",
+			"powerSet": [
+				"Precognition",
+				"Emotion Manipulation",
+				"Elemental Control"
+			],
+			"addresses": [
+				{
+					"street": "Laurel 7615",
+					"city": "Jacksonville",
+					"country": "USA",
+					"postalCode": "60176"
+				},
+				{
+					"street": "Forest 3723",
+					"city": "Saint Paul",
+					"country": "USA",
+					"postalCode": "78438"
+				}
+			]
+		},
+		{
+			"heroName": "Whispering Paladin",
+			"civilianFirstName": "Olivia",
+			"civilianLastName": "Carter",
+			"powerSet": [
+				"Force Fields",
+				"Super Hearing",
+				"Shadow Control"
+			],
+			"addresses": [
+				{
+					"street": "Harborview 53",
+					"city": "San Francisco",
+					"country": "USA",
+					"postalCode": "50836"
+				}
+			]
+		},
+		{
+			"heroName": "Daring Warrior",
+			"civilianFirstName": "Riley",
+			"civilianLastName": "Gonzalez",
+			"powerSet": [
+				"Dream Walking",
+				"Ice Manipulation",
+				"Intangibility",
+				"Spirit Communication",
+				"X-Ray Vision"
+			],
+			"addresses": [
+				{
+					"street": "Boulevard 9598",
+					"city": "Fresno",
+					"country": "USA",
+					"postalCode": "04787"
+				},
+				{
+					"street": "Linden 7926",
+					"city": "North Las Vegas",
+					"country": "USA",
+					"postalCode": "95380"
+				}
+			]
+		},
+		{
+			"heroName": "Harmonic Panther",
+			"civilianFirstName": "Joseph",
+			"civilianLastName": "Adams",
+			"powerSet": [
+				"Invisibility",
+				"Animal Communication",
+				"Water Manipulation",
+				"Intangibility",
+				"Probability Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Vista 3211",
+					"city": "Pittsburgh",
+					"country": "USA",
+					"postalCode": "50282"
+				},
+				{
+					"street": "Sunrise 3139",
+					"city": "Newark",
+					"country": "USA",
+					"postalCode": "46230"
+				},
+				{
+					"street": "Maple 582",
+					"city": "Portland",
+					"country": "USA",
+					"postalCode": "46384"
+				}
+			]
+		},
+		{
+			"heroName": "Primal Sentinel",
+			"civilianFirstName": "Violet",
+			"civilianLastName": "Scott",
+			"powerSet": [
+				"Dream Walking",
+				"Shadow Control",
+				"Emotion Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Park 4123",
+					"city": "Plano",
+					"country": "USA",
+					"postalCode": "87079"
+				}
+			]
+		},
+		{
+			"heroName": "Unseen Nebula",
+			"civilianFirstName": "Sofia",
+			"civilianLastName": "Hill",
+			"powerSet": [
+				"Radiation Control",
+				"Gravity Control",
+				"Sonic Scream",
+				"Night Vision"
+			],
+			"addresses": [
+				{
+					"street": "Place 7149",
+					"city": "Honolulu",
+					"country": "USA",
+					"postalCode": "69990"
+				}
+			]
+		},
+		{
+			"heroName": "Roaring Viper",
+			"civilianFirstName": "Chloe",
+			"civilianLastName": "Brooks",
+			"powerSet": [
+				"Super Hearing",
+				"Intangibility",
+				"Mind Control",
+				"Shape Shifting"
+			],
+			"addresses": [
+				{
+					"street": "Lowland 3063",
+					"city": "Orlando",
+					"country": "USA",
+					"postalCode": "58436"
+				}
+			]
+		},
+		{
+			"heroName": "Blinding Blizzard",
+			"civilianFirstName": "Audrey",
+			"civilianLastName": "Parker",
+			"powerSet": [
+				"Astral Projection",
+				"Telekinesis",
+				"Radiation Control",
+				"Mind Control"
+			],
+			"addresses": [
+				{
+					"street": "Prairie 7869",
+					"city": "Reno",
+					"country": "USA",
+					"postalCode": "34439"
+				},
+				{
+					"street": "Mill 9668",
+					"city": "Honolulu",
+					"country": "USA",
+					"postalCode": "93034"
+				},
+				{
+					"street": "Rock 922",
+					"city": "Boston",
+					"country": "USA",
+					"postalCode": "65830"
+				}
+			]
+		},
+		{
+			"heroName": "Cursed Spark",
+			"civilianFirstName": "Emma",
+			"civilianLastName": "Davis",
+			"powerSet": [
+				"Dream Walking",
+				"Invisibility"
+			],
+			"addresses": [
+				{
+					"street": "Hemlock 7549",
+					"city": "Bakersfield",
+					"country": "USA",
+					"postalCode": "84221"
+				},
+				{
+					"street": "Beech 9936",
+					"city": "Irvine",
+					"country": "USA",
+					"postalCode": "22793"
+				}
+			]
+		},
+		{
+			"heroName": "Blazing Cyclone",
+			"civilianFirstName": "Victoria",
+			"civilianLastName": "Sanchez",
+			"powerSet": [
+				"Shadow Control",
+				"Magnetism",
+				"Animal Communication",
+				"Regeneration",
+				"Air Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Birch 4943",
+					"city": "Bakersfield",
+					"country": "USA",
+					"postalCode": "35059"
+				},
+				{
+					"street": "Spruce 6136",
+					"city": "Cleveland",
+					"country": "USA",
+					"postalCode": "52381"
+				}
+			]
+		},
+		{
+			"heroName": "Luminous Golem",
+			"civilianFirstName": "Nora",
+			"civilianLastName": "Lee",
+			"powerSet": [
+				"Regeneration",
+				"Animal Communication",
+				"Elasticity",
+				"Shape Shifting"
+			],
+			"addresses": [
+				{
+					"street": "Sycamore 8907",
+					"city": "Dallas",
+					"country": "USA",
+					"postalCode": "49970"
+				},
+				{
+					"street": "River 5432",
+					"city": "Philadelphia",
+					"country": "USA",
+					"postalCode": "24644"
+				},
+				{
+					"street": "Beech 9531",
+					"city": "Scottsdale",
+					"country": "USA",
+					"postalCode": "84148"
+				}
+			]
+		},
+		{
+			"heroName": "Titanic Pulse",
+			"civilianFirstName": "Aurora",
+			"civilianLastName": "Wilson",
+			"powerSet": [
+				"Regeneration",
+				"Radiation Control"
+			],
+			"addresses": [
+				{
+					"street": "Alley 6792",
+					"city": "Durham",
+					"country": "USA",
+					"postalCode": "06532"
+				},
+				{
+					"street": "Bay 7098",
+					"city": "Anaheim",
+					"country": "USA",
+					"postalCode": "71759"
+				}
+			]
+		},
+		{
+			"heroName": "Secret Shield",
+			"civilianFirstName": "Elijah",
+			"civilianLastName": "Scott",
+			"powerSet": [
+				"Invisibility",
+				"Force Fields",
+				"Elemental Control",
+				"Power Mimicry"
+			],
+			"addresses": [
+				{
+					"street": "Aspen 1509",
+					"city": "Washington",
+					"country": "USA",
+					"postalCode": "50804"
+				},
+				{
+					"street": "Sycamore 8552",
+					"city": "Plano",
+					"country": "USA",
+					"postalCode": "00922"
+				}
+			]
+		},
+		{
+			"heroName": "Rugged Lion",
+			"civilianFirstName": "Gabriel",
+			"civilianLastName": "Turner",
+			"powerSet": [
+				"Mind Control",
+				"Invisibility",
+				"Luck Manipulation",
+				"Size Changing"
+			],
+			"addresses": [
+				{
+					"street": "Avenue 7683",
+					"city": "Reno",
+					"country": "USA",
+					"postalCode": "50587"
+				}
+			]
+		},
+		{
+			"heroName": "Golden Comet",
+			"civilianFirstName": "Samuel",
+			"civilianLastName": "Cox",
+			"powerSet": [
+				"Illusion Casting",
+				"Mind Control",
+				"Shadow Control",
+				"Super Intelligence"
+			],
+			"addresses": [
+				{
+					"street": "Lowland 939",
+					"city": "Durham",
+					"country": "USA",
+					"postalCode": "22692"
+				},
+				{
+					"street": "Highland 6497",
+					"city": "Tampa",
+					"country": "USA",
+					"postalCode": "25885"
+				},
+				{
+					"street": "Path 7961",
+					"city": "Miami",
+					"country": "USA",
+					"postalCode": "85483"
+				}
+			]
+		},
+		{
+			"heroName": "Harmonic Shield",
+			"civilianFirstName": "Amelia",
+			"civilianLastName": "Reyes",
+			"powerSet": [
+				"Flight",
+				"Elemental Control",
+				"Shadow Control",
+				"Dream Walking",
+				"Air Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "River 5812",
+					"city": "St. Petersburg",
+					"country": "USA",
+					"postalCode": "47358"
+				},
+				{
+					"street": "Pebble 3054",
+					"city": "New Orleans",
+					"country": "USA",
+					"postalCode": "40681"
+				},
+				{
+					"street": "Aspen 1182",
+					"city": "Miami",
+					"country": "USA",
+					"postalCode": "75527"
+				}
+			]
+		},
+		{
+			"heroName": "Whispering Sage",
+			"civilianFirstName": "Owen",
+			"civilianLastName": "Mendoza",
+			"powerSet": [
+				"Poison Generation",
+				"Earth Manipulation",
+				"Time Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Court 8542",
+					"city": "San Diego",
+					"country": "USA",
+					"postalCode": "73943"
+				},
+				{
+					"street": "Trail 5593",
+					"city": "Oklahoma City",
+					"country": "USA",
+					"postalCode": "68148"
+				},
+				{
+					"street": "Mill 5291",
+					"city": "Atlanta",
+					"country": "USA",
+					"postalCode": "61946"
+				}
+			]
+		},
+		{
+			"heroName": "Wild Wolf",
+			"civilianFirstName": "Ezra",
+			"civilianLastName": "Cruz",
+			"powerSet": [
+				"Luck Manipulation",
+				"Emotion Manipulation",
+				"Spirit Communication",
+				"Poison Generation"
+			],
+			"addresses": [
+				{
+					"street": "Linden 5548",
+					"city": "San Francisco",
+					"country": "USA",
+					"postalCode": "11255"
+				}
+			]
+		},
+		{
+			"heroName": "Regal Protector",
+			"civilianFirstName": "Owen",
+			"civilianLastName": "Anderson",
+			"powerSet": [
+				"Healing Touch",
+				"Force Fields",
+				"Shape Shifting"
+			],
+			"addresses": [
+				{
+					"street": "Station 7769",
+					"city": "Arlington",
+					"country": "USA",
+					"postalCode": "90978"
+				},
+				{
+					"street": "Garden 8684",
+					"city": "Chandler",
+					"country": "USA",
+					"postalCode": "34812"
+				}
+			]
+		},
+		{
+			"heroName": "Swift Nomad",
+			"civilianFirstName": "Emily",
+			"civilianLastName": "Moore",
+			"powerSet": [
+				"Flight",
+				"Poison Generation"
+			],
+			"addresses": [
+				{
+					"street": "Orchard 6754",
+					"city": "North Las Vegas",
+					"country": "USA",
+					"postalCode": "41250"
+				}
+			]
+		},
+		{
+			"heroName": "Shadow Bolt",
+			"civilianFirstName": "Logan",
+			"civilianLastName": "Sanchez",
+			"powerSet": [
+				"Portal Creation",
+				"Shape Shifting",
+				"Healing Touch",
+				"Probability Manipulation",
+				"X-Ray Vision"
+			],
+			"addresses": [
+				{
+					"street": "Market 6250",
+					"city": "Colorado Springs",
+					"country": "USA",
+					"postalCode": "70035"
+				}
+			]
+		},
+		{
+			"heroName": "Gleaming Sage",
+			"civilianFirstName": "Lily",
+			"civilianLastName": "Adams",
+			"powerSet": [
+				"Technopathy",
+				"Radiation Control",
+				"Mind Control",
+				"Regeneration",
+				"Probability Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Maple 6210",
+					"city": "Miami",
+					"country": "USA",
+					"postalCode": "83141"
+				},
+				{
+					"street": "Willow 3744",
+					"city": "Greensboro",
+					"country": "USA",
+					"postalCode": "90845"
+				},
+				{
+					"street": "Fir 6940",
+					"city": "Corpus Christi",
+					"country": "USA",
+					"postalCode": "55404"
+				}
+			]
+		},
+		{
+			"heroName": "Phantom Wizard",
+			"civilianFirstName": "Ezra",
+			"civilianLastName": "Gonzalez",
+			"powerSet": [
+				"Elasticity",
+				"Ice Manipulation",
+				"Light Manipulation",
+				"Earth Manipulation",
+				"Super Strength"
+			],
+			"addresses": [
+				{
+					"street": "River 2533",
+					"city": "Durham",
+					"country": "USA",
+					"postalCode": "49655"
+				}
+			]
+		},
+		{
+			"heroName": "Modern Monk",
+			"civilianFirstName": "Isabella",
+			"civilianLastName": "Adams",
+			"powerSet": [
+				"Density Control",
+				"Night Vision",
+				"Density Control"
+			],
+			"addresses": [
+				{
+					"street": "River 7986",
+					"city": "Lubbock",
+					"country": "USA",
+					"postalCode": "85605"
+				},
+				{
+					"street": "Harbor 5139",
+					"city": "Austin",
+					"country": "USA",
+					"postalCode": "53605"
+				}
+			]
+		},
+		{
+			"heroName": "Temporal Shield",
+			"civilianFirstName": "Joseph",
+			"civilianLastName": "Campbell",
+			"powerSet": [
+				"Probability Manipulation",
+				"Force Fields",
+				"Night Vision",
+				"Night Vision"
+			],
+			"addresses": [
+				{
+					"street": "Locust 8292",
+					"city": "Los Angeles",
+					"country": "USA",
+					"postalCode": "16838"
+				}
+			]
+		},
+		{
+			"heroName": "Secret Quantum",
+			"civilianFirstName": "Josiah",
+			"civilianLastName": "James",
+			"powerSet": [
+				"Plant Control",
+				"Energy Absorption",
+				"Intangibility"
+			],
+			"addresses": [
+				{
+					"street": "Spruce 4980",
+					"city": "Glendale",
+					"country": "USA",
+					"postalCode": "70096"
+				}
+			]
+		},
+		{
+			"heroName": "Howling Comet",
+			"civilianFirstName": "Riley",
+			"civilianLastName": "Young",
+			"powerSet": [
+				"Precognition",
+				"Animal Communication",
+				"Plant Control"
+			],
+			"addresses": [
+				{
+					"street": "Creek 376",
+					"city": "Atlanta",
+					"country": "USA",
+					"postalCode": "99863"
+				}
+			]
+		},
+		{
+			"heroName": "Savage Inferno",
+			"civilianFirstName": "James",
+			"civilianLastName": "Chavez",
+			"powerSet": [
+				"Regeneration",
+				"Time Manipulation",
+				"Poison Generation",
+				"Mind Control"
+			],
+			"addresses": [
+				{
+					"street": "Forest 7186",
+					"city": "Dallas",
+					"country": "USA",
+					"postalCode": "47756"
+				},
+				{
+					"street": "Vineyard 7988",
+					"city": "Sacramento",
+					"country": "USA",
+					"postalCode": "75254"
+				}
+			]
+		},
+		{
+			"heroName": "Quantum Kraken",
+			"civilianFirstName": "Madison",
+			"civilianLastName": "Nelson",
+			"powerSet": [
+				"Probability Manipulation",
+				"Healing Touch"
+			],
+			"addresses": [
+				{
+					"street": "Boulevard 9159",
+					"city": "Glendale",
+					"country": "USA",
+					"postalCode": "96375"
+				}
+			]
+		},
+		{
+			"heroName": "Crystalline Shadow",
+			"civilianFirstName": "Avery",
+			"civilianLastName": "Carter",
+			"powerSet": [
+				"Earth Manipulation",
+				"Telekinesis",
+				"Earth Manipulation",
+				"Probability Manipulation",
+				"Elasticity"
+			],
+			"addresses": [
+				{
+					"street": "Circle 7715",
+					"city": "Boston",
+					"country": "USA",
+					"postalCode": "33773"
+				}
+			]
+		},
+		{
+			"heroName": "Cursed Wizard",
+			"civilianFirstName": "Noah",
+			"civilianLastName": "Parker",
+			"powerSet": [
+				"Regeneration",
+				"Energy Blasts"
+			],
+			"addresses": [
+				{
+					"street": "Pine 2276",
+					"city": "Bakersfield",
+					"country": "USA",
+					"postalCode": "82891"
+				},
+				{
+					"street": "Ash 7188",
+					"city": "Milwaukee",
+					"country": "USA",
+					"postalCode": "07019"
+				}
+			]
+		},
+		{
+			"heroName": "Vibrant Protector",
+			"civilianFirstName": "Maverick",
+			"civilianLastName": "Gutierrez",
+			"powerSet": [
+				"Water Manipulation",
+				"Regeneration",
+				"Density Control"
+			],
+			"addresses": [
+				{
+					"street": "Maple 8574",
+					"city": "Cleveland",
+					"country": "USA",
+					"postalCode": "89045"
+				}
+			]
+		},
+		{
+			"heroName": "Iron Emissary",
+			"civilianFirstName": "Luna",
+			"civilianLastName": "Nguyen",
+			"powerSet": [
+				"Super Hearing",
+				"Dream Walking",
+				"Regeneration"
+			],
+			"addresses": [
+				{
+					"street": "Prairieview 7335",
+					"city": "Dallas",
+					"country": "USA",
+					"postalCode": "22289"
+				},
+				{
+					"street": "Prairie 549",
+					"city": "Philadelphia",
+					"country": "USA",
+					"postalCode": "41430"
+				},
+				{
+					"street": "Hickory 440",
+					"city": "Lexington",
+					"country": "USA",
+					"postalCode": "64992"
+				}
+			]
+		},
+		{
+			"heroName": "Primal Storm",
+			"civilianFirstName": "Elijah",
+			"civilianLastName": "Mitchell",
+			"powerSet": [
+				"Energy Blasts",
+				"Telepathy",
+				"Elasticity"
+			],
+			"addresses": [
+				{
+					"street": "Lowland 7937",
+					"city": "Winston-Salem",
+					"country": "USA",
+					"postalCode": "34076"
+				}
+			]
+		},
+		{
+			"heroName": "Stormy Surge",
+			"civilianFirstName": "Hannah",
+			"civilianLastName": "Watson",
+			"powerSet": [
+				"Technopathy",
+				"Super Intelligence"
+			],
+			"addresses": [
+				{
+					"street": "Drive 5239",
+					"city": "Sacramento",
+					"country": "USA",
+					"postalCode": "96194"
+				}
+			]
+		},
+		{
+			"heroName": "Arcane Spear",
+			"civilianFirstName": "Leah",
+			"civilianLastName": "Mitchell",
+			"powerSet": [
+				"Elemental Control",
+				"Energy Absorption",
+				"Portal Creation",
+				"Ice Manipulation",
+				"Luck Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Trail 3914",
+					"city": "Tulsa",
+					"country": "USA",
+					"postalCode": "78610"
+				}
+			]
+		},
+		{
+			"heroName": "Heroic Tempest",
+			"civilianFirstName": "Hudson",
+			"civilianLastName": "Diaz",
+			"powerSet": [
+				"Super Intelligence",
+				"Super Hearing",
+				"Healing Touch"
+			],
+			"addresses": [
+				{
+					"street": "Rock 273",
+					"city": "Boston",
+					"country": "USA",
+					"postalCode": "07305"
+				}
+			]
+		},
+		{
+			"heroName": "Thunderous Atom",
+			"civilianFirstName": "Penelope",
+			"civilianLastName": "James",
+			"powerSet": [
+				"Healing Touch",
+				"Magnetism",
+				"Portal Creation"
+			],
+			"addresses": [
+				{
+					"street": "Place 8089",
+					"city": "Mesa",
+					"country": "USA",
+					"postalCode": "21869"
+				},
+				{
+					"street": "Meadow 9296",
+					"city": "Fort Wayne",
+					"country": "USA",
+					"postalCode": "92075"
+				}
+			]
+		},
+		{
+			"heroName": "Gleaming Blade",
+			"civilianFirstName": "Lucas",
+			"civilianLastName": "Diaz",
+			"powerSet": [
+				"Super Hearing",
+				"Fire Manipulation",
+				"X-Ray Vision",
+				"Super Intelligence"
+			],
+			"addresses": [
+				{
+					"street": "Field 2984",
+					"city": "Wichita",
+					"country": "USA",
+					"postalCode": "32365"
+				}
+			]
+		},
+		{
+			"heroName": "Blessed Tempest",
+			"civilianFirstName": "Jack",
+			"civilianLastName": "Gomez",
+			"powerSet": [
+				"Force Fields",
+				"Night Vision",
+				"Healing Touch",
+				"Dream Walking"
+			],
+			"addresses": [
+				{
+					"street": "Factory 3325",
+					"city": "Durham",
+					"country": "USA",
+					"postalCode": "81569"
+				},
+				{
+					"street": "Willow 5834",
+					"city": "Seattle",
+					"country": "USA",
+					"postalCode": "55439"
+				}
+			]
+		},
+		{
+			"heroName": "Phantom Oracle",
+			"civilianFirstName": "Chloe",
+			"civilianLastName": "Cooper",
+			"powerSet": [
+				"Telekinesis",
+				"Force Fields"
+			],
+			"addresses": [
+				{
+					"street": "Boulevard 6740",
+					"city": "Glendale",
+					"country": "USA",
+					"postalCode": "63096"
+				},
+				{
+					"street": "Summit 8346",
+					"city": "Buffalo",
+					"country": "USA",
+					"postalCode": "92462"
+				}
+			]
+		},
+		{
+			"heroName": "Jagged Crow",
+			"civilianFirstName": "John",
+			"civilianLastName": "King",
+			"powerSet": [
+				"Size Changing",
+				"Poison Generation",
+				"Force Fields"
+			],
+			"addresses": [
+				{
+					"street": "Dune 7964",
+					"city": "Chicago",
+					"country": "USA",
+					"postalCode": "13168"
+				}
+			]
+		},
+		{
+			"heroName": "Steadfast Nomad",
+			"civilianFirstName": "Aiden",
+			"civilianLastName": "Hall",
+			"powerSet": [
+				"Probability Manipulation",
+				"Elemental Control",
+				"Energy Absorption",
+				"Luck Manipulation",
+				"Duplication"
+			],
+			"addresses": [
+				{
+					"street": "Cedar 7991",
+					"city": "Boston",
+					"country": "USA",
+					"postalCode": "79559"
+				},
+				{
+					"street": "Aspen 4255",
+					"city": "Las Vegas",
+					"country": "USA",
+					"postalCode": "27762"
+				}
+			]
+		},
+		{
+			"heroName": "Radiant Emissary",
+			"civilianFirstName": "Mia",
+			"civilianLastName": "Morales",
+			"powerSet": [
+				"Precognition",
+				"Super Strength",
+				"Elasticity",
+				"Poison Generation",
+				"Technopathy"
+			],
+			"addresses": [
+				{
+					"street": "Market 2566",
+					"city": "Pittsburgh",
+					"country": "USA",
+					"postalCode": "26783"
+				},
+				{
+					"street": "Plaza 8717",
+					"city": "Chicago",
+					"country": "USA",
+					"postalCode": "35675"
+				}
+			]
+		},
+		{
+			"heroName": "Bold Kraken",
+			"civilianFirstName": "Penelope",
+			"civilianLastName": "Taylor",
+			"powerSet": [
+				"Air Manipulation",
+				"Earth Manipulation"
+			],
+			"addresses": [
+				{
+					"street": "Brook 5387",
+					"city": "Laredo",
+					"country": "USA",
+					"postalCode": "85342"
+				}
+			]
+		}
+	]
