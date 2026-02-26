@@ -1,0 +1,5 @@
+Create  java maven application that generate one million random superhero descriptions output to json file.
+Metadata to include; hero name, civilian first name and last name, and power set, and an array of address objects.
+To generate names use a set of not less than 100 adjectives and not less than 100 nouns.
+To generate first name, and last name, use a set of no less than 100.
+The address components use a set of at least 100 street names and 100 cities.
