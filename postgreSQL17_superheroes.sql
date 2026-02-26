@@ -26,6 +26,7 @@ CREATE TABLE superheroes (
 
 
 -- Insert a sample JSON object into the table
+/*
 INSERT INTO superheroes (hero_data) VALUES (
     '		{
 			"heroName": "Icy Ninja",
@@ -58,7 +59,7 @@ INSERT INTO superheroes (hero_data) VALUES (
 			]
 		}'
 );
-
+*/
 
 --step 3:  Select all the data
 select * from superheroes;
@@ -141,3 +142,14 @@ FROM
 CROSS JOIN LATERAL json_array_elements_text(jt.features) AS f(feature)
 WHERE 
     jt.price > 1000 AND f.feature LIKE '%Play';
+    
+    
+    
+    
+-- Conditional select
+SELECT hero_data->>'heroName' FROM superheroes WHERE hero_data->>'heroName' like '%Electric%';
+
+SELECT hero_data->>'heroName', hero_data->>'civilianFirstName' FROM superheroes WHERE hero_data->>'civilianFirstName' like 'Jo%';
+
+
+
