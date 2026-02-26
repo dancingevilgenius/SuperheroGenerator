@@ -8,6 +8,11 @@ import java.io.Reader;
 import java.lang.reflect.Type;
 import java.util.List;
 
+//import java.sql.Connection;
+//import java.sql.DriverManager;
+//import java.sql.PreparedStatement;
+//import java.sql.SQLException;
+
 public class ParseAndInsert {
     public static void main(String[] args) {
         // Create a Gson instance
@@ -24,8 +29,13 @@ public class ParseAndInsert {
 
             // Iterate over the list and use the objects
             for (Superhero hero : heroList) {
-                System.out.println("Hero Name: " + hero.getHeroName() + ", firstName: " + hero.getCivilianFirstName()
-                        + " address: " + hero.getAddresses().getFirst().getCity());
+                /*
+                 * System.out.println("Hero Name: " + hero.getHeroName() + ", firstName: " +
+                 * hero.getCivilianFirstName()
+                 * + " address: " + hero.getAddresses().getFirst().getCity());
+                 */
+                String jsonString = gson.toJson(hero);
+                System.out.println(jsonString);
                 // Or simply: System.out.println(student);
             }
 
