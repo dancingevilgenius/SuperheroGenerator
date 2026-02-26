@@ -27,35 +27,36 @@ CREATE TABLE superheroes (
 
 -- Insert a sample JSON object into the table
 INSERT INTO superheroes (hero_data) VALUES (
-    '{
-                "heroName": "Frozen Monk",
-                "civilianFirstName": "Hudson",
-                "civilianLastName": "Rodriguez",
-                "powerSet": [
-                        "Time Manipulation",
-                        "Poison Generation"
-                ],
-                "addresses": [
-                        {
-                                "street": "Glen 2060",
-                                "city": "New York",
-                                "country": "USA",
-                                "postalCode": "07357"
-                        },
-                        {
-                                "street": "Fir 501",
-                                "city": "Winston-Salem",
-                                "country": "USA",
-                                "postalCode": "85383"
-                        },
-                        {
-                                "street": "Birch 6501",
-                                "city": "Madison",
-                                "country": "USA",
-                                "postalCode": "34216"
-                        }
-                ]
-        }'
+    '		{
+			"heroName": "Icy Ninja",
+			"civilianFirstName": "James",
+			"civilianLastName": "Allen",
+			"powerSet": [
+				"Telepathy",
+				"Technopathy",
+				"Shadow Control"
+			],
+			"addresses": [
+				{
+					"street": "Oak 8277",
+					"city": "Chicago",
+					"country": "USA",
+					"postalCode": "34687"
+				},
+				{
+					"street": "Terrace 2996",
+					"city": "Tulsa",
+					"country": "USA",
+					"postalCode": "11847"
+				},
+				{
+					"street": "Birch 1637",
+					"city": "Oakland",
+					"country": "USA",
+					"postalCode": "03066"
+				}
+			]
+		}'
 );
 
 
@@ -63,15 +64,19 @@ INSERT INTO superheroes (hero_data) VALUES (
 select * from superheroes;
 
 
+-- Select first level data
+select
+        hero_data->'heroName' as hero_name,
+        hero_data->'civilianFirstName' as first_name,
+        hero_data->'civilianLastName' as last_name
+from
+        superheroes;
 
 
 
 
-
-
---step 4:  using the json_table function
-SELECT 
-    jt.*
+--step 4:  SELECT from first tier object which is an array.
+SELECT    jt.*
 FROM 
     superheroes,
     json_table(hero_data->'addresses', 
@@ -90,8 +95,9 @@ ORDER BY
 
 
 
---step 5: selecting specific columns
+--step 5: selecting specific columns from a nested array
 SELECT
+    hero_data->'heroName',
     addresses.street,
     addresses.city,
     addresses.postal_code,
