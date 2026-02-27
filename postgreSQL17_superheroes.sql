@@ -118,6 +118,31 @@ ORDER BY
 
 
 
+
+-- Not working
+SELECT
+    hero_data->'heroName',
+    addresses.street,
+    addresses.city,
+    addresses.postal_code,
+    addresses.country
+FROM 
+    superheroes,
+    json_table(hero_data->'addresses', 
+               '$[*]' COLUMNS (
+                   street 	TEXT 		PATH '$.street',
+                   city 	TEXT 		PATH '$.city',
+                   postal_code  TEXT 		PATH '$.postalCode',
+                   country 	TEXT 	        PATH '$.country'
+               )
+    ) AS addresses
+ORDER BY 
+    addresses.country DESC;
+-- Not working
+
+
+
+
 -- Find match in a set or array
 SELECT
     hero_data->'heroName',
@@ -127,6 +152,35 @@ FROM
 WHERE
     hero_data->'powerSet' @> '["Regeneration"]';
 ;
+
+
+-- Get indexed value in an array
+SELECT
+    hero_data->'heroName',
+    hero_data->'powerSet'->0    -- First element
+FROM 
+    superheroes
+WHERE
+    hero_data->'powerSet' @> '["Regeneration"]';
+;
+
+
+
+SELECT
+    hero_data->'heroName',
+    hero_data->'powerSet'->0    -- First element
+FROM 
+    superheroes
+WHERE
+    hero_data->'powerSet' @> '["Regeneration"]';
+;
+
+
+
+
+
+
+
 
 SELECT
     hero_data->'heroName',
@@ -164,34 +218,25 @@ WHERE
     
 
 	
-SELECT * FROM superheroes WHERE hero_data->>'addresses'->>'city' is not null;
+--SELECT * FROM superheroes WHERE hero_data->'addresses'->>'city' = 'Tampa';
 
 	
 
 
 
+SELECT
+    hero_data->>'heroName' AS hero_name,
+    addresses->>'street' AS street,
+    addresses->>'city' AS city,
+    addresses->>'country' AS country
+FROM
+    superheroes,
+    jsonb_array_elements(hero_data->'addresses') AS addresses
+WHERE
+    addresses->>'city' = 'Orlando';
+    --addresses->>'country' = 'USA';
 
--- Now, let's use json_table to query this data
-SELECT 
-    jt.*,
-    f.feature
-FROM 
-    dealership_inventory,
-    json_table(inventory_data->'cars', 
-               '$[*]' COLUMNS (
-                   make TEXT PATH '$.make',
-                   model TEXT PATH '$.model',
-                   year INT PATH '$.year',
-                   price DECIMAL PATH '$.price',
-                   features JSON PATH '$.features'
-               )
-    ) AS jt
-CROSS JOIN LATERAL json_array_elements_text(jt.features) AS f(feature)
-WHERE 
-    jt.price > 1000 AND f.feature LIKE '%Play';
-    
-    
-    
+
     
 -- Conditional select
 SELECT hero_data->>'heroName' FROM superheroes WHERE hero_data->>'heroName' like '%Electric%';
