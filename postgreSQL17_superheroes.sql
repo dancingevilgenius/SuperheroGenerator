@@ -225,23 +225,23 @@ WHERE
 
 
 SELECT
-    hero_data->>'heroName' AS hero_name,
+    hero_data->>'heroName' AS code_name,
     addresses->>'street' AS street,
     addresses->>'city' AS city,
     addresses->>'country' AS country
 FROM
     superheroes,
     jsonb_array_elements(hero_data->'addresses') AS addresses
-WHERE
+WHERE 
     addresses->>'city' = 'Orlando';
     --addresses->>'country' = 'USA';
 
 
     
 -- Conditional select
-SELECT hero_data->>'heroName' FROM superheroes WHERE hero_data->>'heroName' like '%Electric%';
+SELECT hero_data->>'heroName' code_name FROM superheroes WHERE hero_data->>'heroName' like '%Electric%';
 
-SELECT hero_data->>'heroName', hero_data->>'civilianFirstName' FROM superheroes WHERE hero_data->>'civilianFirstName' like 'Jo%';
+SELECT hero_data->>'heroName' as code_name , hero_data->>'civilianFirstName' as first_name FROM superheroes WHERE hero_data->>'civilianFirstName' like 'Jo%';
 
 
 
