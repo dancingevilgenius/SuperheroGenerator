@@ -116,8 +116,55 @@ FROM
 ORDER BY 
     addresses.country DESC;
 
-	
 
+
+-- Find match in a set or array
+SELECT
+    hero_data->'heroName',
+    hero_data->'powerSet'
+FROM 
+    superheroes
+WHERE
+    hero_data->'powerSet' @> '["Regeneration"]';
+;
+
+SELECT
+    hero_data->'heroName',
+    hero_data->'powerSet'
+FROM 
+    superheroes
+WHERE
+    hero_data->'heroName' is not null;
+    
+SELECT
+    hero_data->'heroName',
+    hero_data->'powerSet'
+FROM 
+    superheroes
+WHERE
+    hero_data->>'heroName' is not null;
+
+
+SELECT
+    hero_data->'heroName',
+    hero_data->'powerSet'
+FROM 
+    superheroes
+WHERE
+    hero_data->>'heroName' = 'Infinite Kraken'; -- Use this
+    -- hero_data->'heroName' = 'Infinite Kraken';  // This FAILED
+    
+SELECT
+    hero_data->'heroName',
+    hero_data->'powerSet'
+FROM 
+    superheroes
+WHERE
+    hero_data->>'heroName'  IN('Infinite Kraken', 'Furious Comet');
+    
+
+	
+SELECT * FROM superheroes WHERE hero_data->>'addresses'->>'city' is not null;
 
 	
 
